@@ -3,7 +3,7 @@ Code of "Shap Scores for Neural Network Classifiers: Black-Box vs. Open-Box Circ
 
 This code is thought to be used on Google Colab. Modifications should be made to be installed on other computers (especially the ones with an OS different from Linux).
 
-A big thanks goes to Arthur Choi, Norbert Manthey & Andy Shih for their respective repositories, which were key to the development of this code. These can be found down below:
+A big thanks goes to Arthur Choi, Norbert Manthey & Andy Shih for sharing their respective repositories, which were key to the development of this code. These can be found down below:
 
 - https://github.com/wannesm/PySDD
 - https://github.com/conp-solutions/riss
