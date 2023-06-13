@@ -1,5 +1,5 @@
 # dDBCSFi(2)
-Code of "Opening Up the Neural Network Classifier for Shap Score Computation", written by Jorge E. León, with the guidance of Leopoldo Bertossi. Feel free to use it as you please 👍
+Code of "Opening Up the Neural Network Classifier for Shap Score Computation"/"Compiling Neural Network Classifiers into Boolean Circuits for Efficient Shap-Score Computation", written by Jorge E. León, with the guidance of Leopoldo Bertossi. Feel free to use it as you please 👍
 
 This code is thought to be used on Google Colab. Modifications should be made to be installed on other computers (especially the ones with an OS different from Linux).
 
